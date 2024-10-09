@@ -21,5 +21,5 @@
 - 📈 [Time Series Models with fpp3](https://github.com/WizardCake/Time-Series-Modeling)
 
 ## 📫 How to Reach Me:
-- LinkedIn: [Matheus de Andrade Santos](https://www.linkedin.com/in/matheus-andrade-santos)
+- LinkedIn: [Matheus de Andrade Santos](https://www.linkedin.com/in/matheus-andrade-b91a51218)
 
