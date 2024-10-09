@@ -13,7 +13,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WizardCake&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WizardCake&show_icons=true&theme=radical&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WizardCake&theme=tokyonight)
+
 
 ## 🌟 Highlighted Projects
 - 🎮 [A Twist on Tic-Tac-Toe](https://github.com/WizardCake/Velha-das-Velhas)
@@ -23,4 +25,8 @@
 
 ## 📫 How to Reach Me:
 - LinkedIn: [Matheus de Andrade Santos](https://www.linkedin.com/in/matheus-andrade-b91a51218)
+
+## 🏆 Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WizardCake&theme=darkhub&column=7)
+
 
