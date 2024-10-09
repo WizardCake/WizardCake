@@ -1,10 +1,9 @@
 ﻿
 # 👋 Hi, I'm Matheus de Andrade Santos
 
-- 🎓 Master's in Economics with a focus on Urban Analysis
+- 🎓 Master's in Economics with a focus on Urban Analysis and Forecast Methods
 - 💻 Developer skilled in R, Python, and SQL
 - 📊 Specialist in Econometrics and Time Series Modeling
-- 🌎 Focused on Marine Economy and Public Policy Analysis Projects
 - 👾 Game and Interactive App Developer
 
 ## 🔧 Technologies & Tools
