@@ -12,7 +12,7 @@
 ## 🌟 Highlighted Projects
 - 🎮 [A Twist on Tic-Tac-Toe](https://github.com/WizardCake/Velha-das-Velhas)
 - 🧑‍💼 [Novo CAGED data-mining](https://github.com/WizardCake/Fetch_NovoCaged)
-- 📊 [NCM Item Classifier with Neural Networks](https://github.com/WizardCake/NCM-Classifier)
+- 📊 [Data Analysis Projects](https://github.com/WizardCake/Data_Analysis)
 - 📈 [Time Series Models with fpp3](https://github.com/WizardCake/Time-Series-Modeling)
 
 ## 🔧 Technologies & Tools
