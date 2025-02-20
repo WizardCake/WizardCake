@@ -4,7 +4,6 @@
 - 🎓 Master's in Economics with focus on Urban Analysis and Forecast Methods
 - 💻 Developer skilled in R, Python, and SQL
 - 📊 Specialist in Econometrics and Time Series Modeling
-- ⚙️ Specialist in PostgreSQL
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WizardCake&show_icons=true&theme=radical&count_private=true)
