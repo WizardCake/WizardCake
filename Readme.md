@@ -9,7 +9,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WizardCake&show_icons=true&theme=radical&count_private=true)
 
 ## 🌟 Highlighted Projects
-- 🧑‍💼 [Novo CAGED data-mining](https://github.com/WizardCake/Fetch_NovoCaged)
+- 🧑‍💼 [Novo CAGED and RAIS data-mining](https://github.com/WizardCake/Fetch_NovoCaged)
 - ♻️ [Sustainable Cities Development Index](https://github.com/WizardCake/iqm)
 - 📊 [Data Analysis Projects](https://github.com/WizardCake/Data_Analysis)
 - 📈 [Time Series Models with fpp3](https://github.com/WizardCake/Time-Series-Modeling)
