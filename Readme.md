@@ -5,9 +5,6 @@
 - 💻 Developer skilled in R, Python, and SQL
 - 📊 Specialist in Econometrics and Time Series Modeling
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WizardCake&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br)
-
 ## 🌟 Highlighted Projects
 - 🧑‍💼 [Novo CAGED and RAIS data-mining](https://github.com/WizardCake/Fetch_NovoCaged)
 - ♻️ [Sustainable Cities Development Index](https://github.com/WizardCake/iqm)
